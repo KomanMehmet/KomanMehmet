@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mantis-robotics.com/wp-content/uploads/2022/03/0_BhI2ZKAxMW5ujVkv.png)
+![MasterHead](https://www.mantis-robotics.com/wp-content/uploads/2022/03/0_BhI2ZKAxMW5ujVkv.png)
 
 <h1 align="center">Hi 👋, I'm Mehmet Koman</h1>
 <h3 align="center">A passionate Unity and .Net Developer from Turkey</h3>
