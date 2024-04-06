@@ -25,5 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komanmehmet&" alt="komanmehmet" /></p>
 
-
-https://github.com/KomanMehmet/KomanMehmet/blob/output/github-contribution-grid-snake.gif
